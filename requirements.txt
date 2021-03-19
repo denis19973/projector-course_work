@@ -34,7 +34,7 @@ django-s3direct==0.4.4
 django-sesame==1.2
 -e git://github.com/champion-automatica/django-sql-explorer.git@15fcd12c154ed026d6e437d70b265d5ba9e0b28e#egg=django_sql_explorer
 django-timezone-field==2.0
-djangorestframework==3.6.2
+djangorestframework==3.11.2
 docutils==0.15.2
 entrypoints==0.3
 et-xmlfile==1.0.1
